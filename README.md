@@ -15,3 +15,4 @@ Webotron currectly has the currect features
 - List buckets
 - List contents of buccket
 
+- Create and setup bucket
