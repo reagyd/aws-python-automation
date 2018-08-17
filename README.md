@@ -16,3 +16,4 @@ Webotron currectly has the currect features
 - List contents of buccket
 
 - Create and setup bucket
+- Sync directory tree to bucket
